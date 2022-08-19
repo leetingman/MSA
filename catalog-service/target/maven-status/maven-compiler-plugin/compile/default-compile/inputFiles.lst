@@ -1,0 +1,10 @@
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/messagequeue/KafkaConsumer.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/service/CatalogService.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/dto/CatalogDto.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/CatalogServiceApplication.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/vo/ResponseCatalog.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/jpa/CatalogRepository.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/controller/CatalogController.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/messagequeue/KafkaConsumerConfig.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/jpa/CatalogEntity.java
+/Users/nommml/Documents/MSA/catalog-service/src/main/java/com/example/catalogservice/service/CatalogServiceImpl.java
